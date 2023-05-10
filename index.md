@@ -8,6 +8,7 @@
 ## Intelligence artificielle
 
 * [Programmation incantatoire](?p=incant) - mai 2023
+* [Conversation avec PseudoMoi](?p=pseudome) - mai 2023
 
 
 
