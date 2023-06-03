@@ -129,6 +129,8 @@ On retrouve parmi ces mots bien sûr les conjonctions et les articles, mais, et 
 
 Un autre modèle donnerait des mots parfois différents mais je pense qu'il faut les considérer dans leur ensemble. Les mots de commandement, de famille, de compétence, d'affirmation, de destiné ne surprendront pas. Par contre, la présence du rouge, du 5 et de 50 est plus difficile à expliquer (il est possible que les chiffres soit des artefacts d'annotation, cela reste à vérifier)
 
+Il peut être intéressant de déterminer à quelles classes linguistiques majoritaires appartiennent ces mots. Pour cela les psychologues ont développé une classification LIWC). Les catégories les plus présentes sont "social relativité cognition perception mouvement voir". L'action, la connaissance et le mouvement. Serait-ce la clef du succès?
+
 # Faire de l'art
 
 Pour terminer ce projet, je voulais poursuivre en utiisant des intelligences artificielles génératives afin de convertir ces mots nodaux en un poème épique, une sorte de retour au début du corpus. J'ai donc proposé à chatGPT et LLaMA30B d'imaginer un texte sur la bases des mots nodaux. Les voici:
@@ -272,4 +274,11 @@ Je regretterai d'être sorti de ta maison !
 # En conclusion
 
 Les modèles et références sont disponibles sur le [repo](https://github.com/l0d0v1c/Ancient-greek-word2vec). Le site dispose aussi d'une application pour explorer l'hyperespace su grec ancien avec différents modèles. L'objectif de ce travail était essentiellement d'expérimenter les possibilités d'exploration de l'état d'esprit d'une civilisation ancienne au moyen d'intelligences artificielles et n'a pas vocation à l'universalité. Mais au moins peut-il faire réfléchir aux possibilités d'explorer les raisons du succès ou de l'échecs des groupes humains.
+
+
+# Références
+
+Se référer au repo pour les références sur les modèles.
+
+Tausczik, Y. R., et J. W. Pennebaker. «The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods». Journal of Language and Social Psychology 29, nᵒ 1 (1 mars 2010): 24‑54. https://doi.org/10.1177/0261927X09351676.
 
