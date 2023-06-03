@@ -84,7 +84,7 @@ Sur une carte, il est possible d'aller d'un point à un autre par translation. L
 
 βασιλεύς(roi) + γυνή (femme) - ἀνήρ (homme) = βασιλισσα (reine)
 
-Cette addition fonctionne particulièrement bien avec des grands modèles (ici le modèle de Ryder Wishart basé sur Perseus). Avec le modèle précédemment basé sur opengreekandlatin, cette opération donne παις (fille) ou οικος (à la maison), ce qui est plausible dans une société partriacale mais moins dans l'air du temps.
+Cette addition fonctionne particulièrement bien avec des grands modèles (ici un modèle basé sur Perseus) (Wishart, 2023). Avec le modèle précédemment basé sur opengreekandlatin, cette opération donne παις (fille) ou οικος (à la maison), ce qui est plausible dans une société partriacale mais moins dans l'air du temps.
 
 
 # Un filet de significations
@@ -296,3 +296,4 @@ Muellner, Leonard. "The Free First Thousand Years of Greek". Digital Classical P
 
 Tausczik, Y. R., et J. W. Pennebaker. «The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods». Journal of Language and Social Psychology 29, nᵒ 1 (1 mars 2010): 24‑54. https://doi.org/10.1177/0261927X09351676.
 
+Wishart, R https://github.com/ryderwishart/ancient-greek-word2vec
