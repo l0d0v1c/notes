@@ -82,7 +82,7 @@ Ainsi la distance entre les sens que recouvre chacun des mots peut renseigner su
 
 Sur une carte, il est possible d'aller d'un point à un autre par translation. Les vecteurs s'ajoutent et se retranchent, ainsi 
 
-βασιλεύς(roi) + γυνή (femme) - ἀνήρ (homme) = βασιλισσα (reine)
+<center>βασιλεύς(roi) &#65291; γυνή (femme) &#10134; ἀνήρ (homme) = βασιλισσα (reine) </center>
 
 Cette addition fonctionne particulièrement bien avec des grands modèles (ici un modèle basé sur Perseus) (Wishart, 2023). Avec le modèle précédemment basé sur opengreekandlatin, cette opération donne παις (fille) ou οικος (à la maison), ce qui est plausible dans une société partriacale mais moins dans l'air du temps.
 
