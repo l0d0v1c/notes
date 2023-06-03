@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="517pt" height="729pt" viewBox="0.00 0.00 516.77 729.09">
+<g id="graph0" class="graph" transform="scale(1 1) rotate(0) translate(4 725.0939)">
+<title>G</title>
+<polygon fill="#ffffff" stroke="transparent" points="-4,4 -4,-725.0939 512.7721,-725.0939 512.7721,4 -4,4"/>
+<!-- N0 -->
+<g id="node1" class="node">
+<title>N0</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="137.0282" cy="-703.0939" rx="76.4188" ry="18"/>
+<text text-anchor="middle" x="137.0282" y="-698.8939" font-family="Times,serif" font-size="14.00" fill="#000000">Dataset de textes</text>
+</g>
+<!-- N1 -->
+<g id="node2" class="node">
+<title>N1</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="137.0282" cy="-630.0939" rx="50.9425" ry="18"/>
+<text text-anchor="middle" x="137.0282" y="-625.8939" font-family="Times,serif" font-size="14.00" fill="#000000">Nettoyage</text>
+</g>
+<!-- N0&#45;&gt;N1 -->
+<g id="edge1" class="edge">
+<title>N0-&gt;N1</title>
+<path fill="none" stroke="#000000" d="M137.0282,-685.0489C137.0282,-676.9767 137.0282,-667.2702 137.0282,-658.2756"/>
+<polygon fill="#000000" stroke="#000000" points="140.5283,-658.1842 137.0282,-648.1842 133.5283,-658.1842 140.5283,-658.1842"/>
+</g>
+<!-- N2 -->
+<g id="node3" class="node">
+<title>N2</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="89.0282" cy="-524.4939" rx="68.9351" ry="18"/>
+<text text-anchor="middle" x="89.0282" y="-520.2939" font-family="Times,serif" font-size="14.00" fill="#000000">Lemmatisation</text>
+</g>
+<!-- N1&#45;&gt;N2 -->
+<g id="edge2" class="edge">
+<title>N1-&gt;N2</title>
+<path fill="none" stroke="#000000" d="M105.4825,-615.8463C96.9361,-610.3423 88.7283,-603.1468 83.9286,-594.0939 77.2561,-581.5088 77.7881,-565.8034 80.3143,-552.4981"/>
+<polygon fill="#000000" stroke="#000000" points="83.7956,-552.9823 82.6684,-542.4476 76.98,-551.3859 83.7956,-552.9823"/>
+<text text-anchor="middle" x="131.078" y="-581.4939" font-family="Times,serif" font-size="14.00" fill="#000000">si déclinaissons</text>
+<text text-anchor="middle" x="131.078" y="-564.6939" font-family="Times,serif" font-size="14.00" fill="#000000"> ou conjugaisons</text>
+</g>
+<!-- N3 -->
+<g id="node4" class="node">
+<title>N3</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="140.0282" cy="-451.4939" rx="61.4167" ry="18"/>
+<text text-anchor="middle" x="140.0282" y="-447.2939" font-family="Times,serif" font-size="14.00" fill="#000000">Tokenisation</text>
+</g>
+<!-- N1&#45;&gt;N3 -->
+<g id="edge3" class="edge">
+<title>N1-&gt;N3</title>
+<path fill="none" stroke="#000000" d="M161.9536,-614.1104C168.4008,-608.6154 174.5121,-601.8603 178.0282,-594.0939 195.4771,-555.5522 174.605,-507.4004 157.5888,-478.0722"/>
+<polygon fill="#000000" stroke="#000000" points="160.4222,-475.9939 152.2529,-469.2476 154.4321,-479.6159 160.4222,-475.9939"/>
+</g>
+<!-- N2&#45;&gt;N3 -->
+<g id="edge4" class="edge">
+<title>N2-&gt;N3</title>
+<path fill="none" stroke="#000000" d="M101.6349,-506.4489C107.6874,-497.7856 115.0549,-487.2399 121.7114,-477.712"/>
+<polygon fill="#000000" stroke="#000000" points="124.7085,-479.5333 127.5665,-469.3312 118.9702,-475.5243 124.7085,-479.5333"/>
+</g>
+<!-- N4 -->
+<g id="node5" class="node">
+<title>N4</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="140.0282" cy="-367.0782" rx="90.408" ry="29.3315"/>
+<text text-anchor="middle" x="140.0282" y="-371.2782" font-family="Times,serif" font-size="14.00" fill="#000000">Vectorisation </text>
+<text text-anchor="middle" x="140.0282" y="-354.4782" font-family="Times,serif" font-size="14.00" fill="#000000">(word2vec, RNN...)</text>
+</g>
+<!-- N3&#45;&gt;N4 -->
+<g id="edge5" class="edge">
+<title>N3-&gt;N4</title>
+<path fill="none" stroke="#000000" d="M140.0282,-433.1769C140.0282,-425.426 140.0282,-416.0723 140.0282,-406.872"/>
+<polygon fill="#000000" stroke="#000000" points="143.5283,-406.6434 140.0282,-396.6435 136.5283,-406.6435 143.5283,-406.6434"/>
+</g>
+<!-- N5 -->
+<g id="node6" class="node">
+<title>N5</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="140.0282" cy="-271.2469" rx="73.6762" ry="29.3315"/>
+<text text-anchor="middle" x="140.0282" y="-275.4469" font-family="Times,serif" font-size="14.00" fill="#000000">Mise en réseau </text>
+<text text-anchor="middle" x="140.0282" y="-258.6469" font-family="Times,serif" font-size="14.00" fill="#000000">(Network</text>
+</g>
+<!-- N4&#45;&gt;N5 -->
+<g id="edge6" class="edge">
+<title>N4-&gt;N5</title>
+<path fill="none" stroke="#000000" d="M140.0282,-337.5437C140.0282,-329.1638 140.0282,-319.8999 140.0282,-311.0202"/>
+<polygon fill="#000000" stroke="#000000" points="143.5283,-310.8488 140.0282,-300.8489 136.5283,-310.8489 143.5283,-310.8488"/>
+</g>
+<!-- N6 -->
+<g id="node7" class="node">
+<title>N6</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="140.0282" cy="-186.8313" rx="140.0564" ry="18"/>
+<text text-anchor="middle" x="140.0282" y="-182.6313" font-family="Times,serif" font-size="14.00" fill="#000000">Extraction des noeuds principaux</text>
+</g>
+<!-- N5&#45;&gt;N6 -->
+<g id="edge7" class="edge">
+<title>N5-&gt;N6</title>
+<path fill="none" stroke="#000000" d="M140.0282,-241.7224C140.0282,-233.1643 140.0282,-223.8393 140.0282,-215.3444"/>
+<polygon fill="#000000" stroke="#000000" points="143.5283,-215.1482 140.0282,-205.1482 136.5283,-215.1483 143.5283,-215.1482"/>
+</g>
+<!-- N7 -->
+<g id="node9" class="node">
+<title>N7</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="135.0282" cy="-18" rx="113.4047" ry="18"/>
+<text text-anchor="middle" x="135.0282" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Génération de mythologie</text>
+</g>
+<!-- N6&#45;&gt;N7 -->
+<g id="edge8" class="edge">
+<title>N6-&gt;N7</title>
+<path fill="none" stroke="#000000" d="M138.6167,-168.51C137.852,-157.8196 136.9694,-144.0696 136.498,-131.8313 135.3749,-102.677 135.0583,-69.295 134.9915,-46.2554"/>
+<polygon fill="#000000" stroke="#000000" points="138.4915,-46.1397 134.9764,-36.145 131.4915,-46.1503 138.4915,-46.1397"/>
+<text text-anchor="middle" x="171.7933" y="-106.6156" font-family="Times,serif" font-size="14.00" fill="#000000">LLM</text>
+<text text-anchor="middle" x="171.7933" y="-89.8156" font-family="Times,serif" font-size="14.00" fill="#000000">langue cible </text>
+</g>
+<!-- N8 -->
+<g id="node10" class="node">
+<title>N8</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="363.0282" cy="-102.4156" rx="145.9882" ry="29.3315"/>
+<text text-anchor="middle" x="363.0282" y="-106.6156" font-family="Times,serif" font-size="14.00" fill="#000000">Traduction des noeuds principaux</text>
+<text text-anchor="middle" x="363.0282" y="-89.8156" font-family="Times,serif" font-size="14.00" fill="#000000">dans la langue cible</text>
+</g>
+<!-- N6&#45;&gt;N8 -->
+<g id="edge9" class="edge">
+<title>N6-&gt;N8</title>
+<path fill="none" stroke="#000000" d="M185.1556,-169.7485C213.6507,-158.9618 251.2389,-144.733 284.5183,-132.1352"/>
+<polygon fill="#000000" stroke="#000000" points="286.1214,-135.2708 294.2346,-128.4571 283.6432,-128.7242 286.1214,-135.2708"/>
+</g>
+<!-- N9 -->
+<g id="node8" class="node">
+<title>N9</title>
+<ellipse fill="#faebd7" stroke="transparent" cx="363.0282" cy="-18" rx="91.4445" ry="18"/>
+<text text-anchor="middle" x="363.0282" y="-13.8" font-family="Times,serif" font-size="14.00" fill="#000000">Classification LIWC</text>
+</g>
+<!-- N8&#45;&gt;N9 -->
+<g id="edge11" class="edge">
+<title>N8-&gt;N9</title>
+<path fill="none" stroke="#000000" d="M363.0282,-72.8911C363.0282,-64.3331 363.0282,-55.008 363.0282,-46.5131"/>
+<polygon fill="#000000" stroke="#000000" points="366.5283,-46.3169 363.0282,-36.3169 359.5283,-46.317 366.5283,-46.3169"/>
+</g>
+<!-- N8&#45;&gt;N7 -->
+<g id="edge10" class="edge">
+<title>N8-&gt;N7</title>
+<path fill="none" stroke="#000000" d="M293.0712,-76.5145C259.7618,-64.1819 220.5245,-49.6545 189.479,-38.1601"/>
+<polygon fill="#000000" stroke="#000000" points="190.2982,-34.7312 179.705,-34.5413 187.8677,-41.2958 190.2982,-34.7312"/>
+</g>
+</g>
+</svg>

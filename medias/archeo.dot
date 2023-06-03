@@ -1,0 +1,26 @@
+digraph G {
+
+N0 [label="Dataset de textes", style=filled, fillcolor=antiquewhite,color=transparent]
+N1 [label="Nettoyage", style=filled, fillcolor=antiquewhite,color=transparent]
+N2 [label= "Lemmatisation", style=filled, fillcolor=antiquewhite,color=transparent]
+N3 [label= "Tokenisation", style=filled, fillcolor=antiquewhite,color=transparent]
+N4 [label= "Vectorisation \n(word2vec, RNN...)", style=filled, fillcolor=antiquewhite,color=transparent]
+N5 [label="Mise en réseau \n(Network", style=filled, fillcolor=antiquewhite,color=transparent]
+N6 [label="Extraction des noeuds principaux", style=filled, fillcolor=antiquewhite,color=transparent]
+N9 [label="Classification LIWC", style=filled, fillcolor=antiquewhite,color=transparent]
+N7 [label="Génération de mythologie", style=filled, fillcolor=antiquewhite,color=transparent]
+N8 [label="Traduction des noeuds principaux\ndans la langue cible", style=filled, fillcolor=antiquewhite,color=transparent]
+
+N0->N1
+N1->N2 [label="si déclinaissons\n ou conjugaisons"]
+N1->N3 
+N2->N3
+N3->N4
+N4->N5
+N5->N6
+N6->N7 [label="LLM\nlangue cible "]
+N6->N8
+N8->N7
+N8->N9
+
+}

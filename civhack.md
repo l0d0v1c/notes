@@ -284,7 +284,7 @@ Je regretterai d'être sorti de ta maison !
 
 ## Mythologie artificielle
 
-Nous pouvons également imaginer une mythologie artificielle basée sur ces mots nodaux:
+Nous pouvons également faire générer une mythologie artificielle basée sur ces mots nodaux par l'IA générative:
 
 <div style="padding-left:3em;font-style:italic;" markdown="1">
 Dans les temps anciens, au cœur des abysses d'un monde oublié, une étincelle de vie émergea. Les premiers mots de la création résonnèrent, emplissant le vide de sens et de pouvoir. Fouler fut le premier mot prononcé, donnant naissance à la terre solide et stable sur laquelle tout reposait.
@@ -318,11 +318,27 @@ Chacun de ces dieux possède un rôle unique dans la mythologie, façonnant le d
 
 </div>
 
-
+<div style="float:right; padding:1em;" markdown="1">
+![archeoprocess](medias/archeo.svg)
+<center><small>Fig.2: Processus de traitement d'un corpus</small></center>
+</div>
 
 # En conclusion
 
 Les modèles et références sont disponibles sur le [repo](https://github.com/l0d0v1c/Ancient-greek-word2vec). Le site dispose aussi d'une application pour explorer l'hyperespace du grec ancien avec différents modèles. L'objectif de ce travail était essentiellement d'expérimenter les possibilités d'exploration de l'état d'esprit d'une civilisation ancienne au moyen d'intelligences artificielles et n'a pas vocation à l'universalité. Mais au moins peut-il faire réfléchir aux possibilités d'explorer les raisons du succès ou de l'échec des groupes humains à partir de leux écrits.
+
+Le processus global de traitement d'un corpus de texte est décrit en figure 2 et est partiellement automatisable et adapatable aux évolutions des algorithmes de vectorisation ainsi qu'aux LLM.
+
+L'idée sous-jascente de retarder au maximum l'étape de traduction permet de tenter de conserver la richesse du corpus historique.
+
+Chacune des étapes doit être améliorée:
+- La lemmatisation, toujours imparfaite, et notamment l'identification des noms propres qui sont particulièrement connectés dans le corpus (Wishart 2023)
+- La vectorisation notamment en s'appuyant sur les dernières technologies de réseaux de neurones et éventuellement les transformers
+- Les LLPs dont l'évolution rapide laisse augurer de nombreuses découvertes
+
+
+
+
 
 
 # Références
