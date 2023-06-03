@@ -144,10 +144,10 @@ Il peut être intéressant de déterminer à quelles classes linguistiques major
 
 # Faire de l'art
 
+## Poésie
 Pour terminer ce projet, je voulais poursuivre en utiisant des intelligences artificielles génératives afin de convertir ces mots nodaux en un poème épique, une sorte de retour au début du corpus. J'ai donc proposé à chatGPT et LLaMA30B d'imaginer un texte sur la bases des mots nodaux. Les voici:
 
-```
-
+<div style="padding-left:10em;font-style:italic;white-space: pre;" >
 Sous les regards ébahis, fouler le sol sans crainte,
 S'abreuver à la source des mots qui enchante,
 Obtenir la parole d'un roi écarlate,
@@ -280,7 +280,45 @@ Si l'on me dit que ton sort est malheureux,
 Je regretterai d'être sorti de ta maison !
 
 
-```
+</div>
+
+## Mythologie artificielle
+
+Nous pouvons également imaginer une mythologie artificielle basée sur ces mots nodaux:
+
+<div style="padding-left:3em;font-style:italic;" markdown="1">
+Dans les temps anciens, au cœur des abysses d'un monde oublié, une étincelle de vie émergea. Les premiers mots de la création résonnèrent, emplissant le vide de sens et de pouvoir. Fouler fut le premier mot prononcé, donnant naissance à la terre solide et stable sur laquelle tout reposait.
+L'eau s'abreuva des paroles qui se déversaient, animant les rivières et les océans. La quête pour obtenir la sagesse et le savoir commença alors. Le roi des mots apparut, portant la couronne de la parole suprême. Il régnait sur tous les royaumes, guidant les mortels vers les chemins de la vérité et de l'harmonie.
+Mais les eaux profondes étaient teintées de rouge, symbole de la puissance du mâle, un rappel constant de la force brute et des instincts primaires. Cette dualité marquait l'équilibre entre la raison et l'instinct, la sagesse et la passion. Le roi s'éleva et confirma les lois de la création, proclamant que tout ce qui était né devait retourner à la poussière d'où il venait. Cinq fut le nombre sacré, la mesure de la perfection, et cinquante représentait l'accomplissement ultime.Chaque jour était serré entre les mains du temps, commandé par la rotation incessante de la vie et de la mort. La rareté se manifestait dans la beauté fugace, un don précieux à apprécier. La poussière des étoiles, souvenir lointain d'un temps oublié, portait en elle les secrets de l'univers tout entier. Trois mots étaient gravés dans l'étoffe du destin : partir, revenir et rester, définissant le voyage éternel de l'âme. L'habileté à commander était accordée à ceux qui détenaient la parenté avec le roi. Leurs paroles étaient inchangées, et leur autorité était incontestée. Ils puisaient leur force dans la source même de la création. Cependant, le roi commença à regretter d'avoir accordé sa parole à certains mortels. Il constata que prêter son concours à tous les désirs avait engendré la discorde et la destruction. Il décida alors de prendre son arc et de s'envoler sous les regards étonnés de son peuple, rejoignant une armée d'ailes au-dessus des nuages. À la maison des dieux, une blessure s'ouvrit dans le cœur du roi, mais il savait que cela était nécessaire pour guérir le monde qu'il avait créé. Les mortels pouvaient ainsi apprendre à se soutenir mutuellement et à trouver leur propre chemin vers la sagesse.
+Ainsi fut tissée la mythologie de cette civilisation, où chaque mot était porteur de sens et de pouvoir. À travers les épreuves et les défis, les mortels cherchaient à comprendre le sens profond des mots qui gouvernaient leur existence.
+
+Les dieux sont les gardiens des mots et les maîtres de l'ordre cosmique. Voici les principaux dieux de cette civilisation, accompagnés de leurs noms :
+
+- Le Roi des Mots : Il est le souverain suprême de cette mythologie, détenteur de la parole ultime. Son nom est Arion.
+
+- Aquaria, la Déesse des Eaux : Elle incarne les rivières, les mers et les océans. Son nom est Ondine.
+
+- Terra, le Dieu de la Terre : Il représente la stabilité et la solidité de la terre. Son nom est Gaïus.
+
+- Ignis, le Dieu du Feu : Il symbolise la passion et la force brute. Son nom est Pyrus.
+
+- Sapiens, le Dieu de la Sagesse : Il est le gardien de la connaissance et guide les mortels vers la vérité. Son nom est Sophos.
+
+- Chronos, le Dieu du Temps : Il règne sur les jours et les saisons, marquant la marche du temps. Son nom est Kronos.
+
+- Stella, la Déesse des Étoiles : Elle incarne la magie céleste et la beauté des astres. Son nom est Astraea.
+
+- Vox, le Dieu de la Parole : Il est le messager divin, porteur des mots et des messages sacrés. Son nom est Veritas.
+
+- Bellator, le Dieu de la Guerre : Il personnifie la force martiale et l'habileté à commander. Son nom est Mars.
+
+- Nostalgia, la Déesse des Regrets : Elle représente le remords et le pouvoir de l'introspection. Son nom est Aeoné.
+
+Chacun de ces dieux possède un rôle unique dans la mythologie, façonnant le destin des mortels à travers leurs attributions et leurs interactions divines.
+
+</div>
+
+
 
 # En conclusion
 
