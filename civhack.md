@@ -3,7 +3,7 @@
 
 La Grèce antique est une civilisation fondatrice pour l'humanité, particulièrement pour l'Occident.  Mais cette période, la Grèce classique, durant laquelle furent inventés et transcendés tant de sciences, de philosophies, d'arts, ne dure finalement que de la victoire sur les Perses à Salamine à la mort d'Alexandre le Grand, soit 157 ans. Les merveilles dont nous parlons encore furent les actes de quelques dizaines de milliers d'hommes, 30000 à l'apogée d'Athènes.
 La quantité ne fait pas la qualité. Mais il est quand même incroyable de penser que si peu d'hommes pendant si peu de temps ont à ce point été disruptifs, tout en se réclamant de la tradition.
-Ce qui nous reste, c'est peu de chose: quelques œuvres d'art cassées, des fragments de textes plus ou oins bien recopiés, parfois par des intégristes chrétiens ou musulmans qui avaient leur censure et leur sélectivité.
+Ce qui nous reste, c'est peu de choses: quelques œuvres d'art cassées, des fragments de textes plus ou oins bien recopiés, parfois par des intégristes chrétiens ou musulmans qui avaient leur censure et leur sélectivité.
 Le XIXe siècle fut un grand siècle d'archéologie parfois menée à la pioche puis à la dynamite. Il en va de même des textes et des dictionnaires, monuments érigés à la lumière de la bougie, mais aussi projections de l'âme de leur époque sur celle de l'antiquité.
 
 # Traduction trahison
@@ -44,7 +44,7 @@ Indra est un dieu védique qui possède un filet tout à fait exceptionnel. D'ab
 
 ## Procédé
 
-Il va s'agir de prendre une grande quantité de textes grecs issus du projet opengreekandlatin (Muelner,1019), qui représente environ 1000 ans de reliques textuelles patiemment structuré par des gens remarquablement patients.
+Il va s'agir de prendre une grande quantité de textes grecs issus du projet opengreekandlatin (Muellner,1019), qui représente environ 1000 ans de reliques textuelles patiemment structurées par des gens remarquablement patients.
 
 1. Dans un premier temps, nous allons détecter toutes les phrases qui sont en grec, car il y a aussi des commentaires en anglais, des références. Cela fera environ 150000 phrases de plus de 7 mots.
 2. Ensuite, le grec est une langue assez complexe qui a des déclinaisons et des conjugaisons. Comme nous nous intéressons au sens des mots, nous allons "lemmatiser" les textes, ce qui veut dire ramener les mots à une racine commune. En français, cela reviendrait à convertir "je vais" en "je aller". En grec aussi, il ne suffit pas d'enlever la terminaison des mots pour en trouver la racine. Le procédé n'est pas totalement fiable, mais 84,7% des mots ont pu être lemmatisés. En réalisant cela, nous perdons de l'information, car les déclinaisons renseignent fortement sur le sens. Nous allons seulement étudier le sens racine des mots qui seront contenus dans une "fenêtre" de huit mots. Par ailleurs, il aurait été possible de prendre en compte des expressions de deux ou trois mots. Mais dans cette expérience, ce sera le mot qui sera la perle de notre filet d'Indra.
@@ -284,7 +284,7 @@ Je regretterai d'être sorti de ta maison !
 
 # En conclusion
 
-Les modèles et références sont disponibles sur le [repo](https://github.com/l0d0v1c/Ancient-greek-word2vec). Le site dispose aussi d'une application pour explorer l'hyperespace du grec ancien avec différents modèles. L'objectif de ce travail était essentiellement d'expérimenter les possibilités d'exploration de l'état d'esprit d'une civilisation ancienne au moyen d'intelligences artificielles et n'a pas vocation à l'universalité. Mais au moins peut-il faire réfléchir aux possibilités d'explorer les raisons du succès ou de l'échecs des groupes humains.
+Les modèles et références sont disponibles sur le [repo](https://github.com/l0d0v1c/Ancient-greek-word2vec). Le site dispose aussi d'une application pour explorer l'hyperespace du grec ancien avec différents modèles. L'objectif de ce travail était essentiellement d'expérimenter les possibilités d'exploration de l'état d'esprit d'une civilisation ancienne au moyen d'intelligences artificielles et n'a pas vocation à l'universalité. Mais au moins peut-il faire réfléchir aux possibilités d'explorer les raisons du succès ou de l'échec des groupes humains à partir de leux écrits.
 
 
 # Références
