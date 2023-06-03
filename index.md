@@ -7,9 +7,11 @@
 
 ## Intelligence artificielle
 
+* [Archeologie littéraire](?p=civhack) - juin 2023
 * [Programmation incantatoire](?p=incant) - mai 2023
 * [Conversation avec PseudoMoi](?p=pseudome) - mai 2023
 * [Questions d'impact des LLM](?p=impact) - mai 2023
+
 
 
 
