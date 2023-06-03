@@ -11,14 +11,19 @@
     <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
 
      <script>
+
+
+
 function md(){
     const urlParams = new URLSearchParams(window.location.search);
     const page = urlParams.get('p');
+    bs=location.protocol + '//' + location.host + location.pathname;
     if(!page) pagef="index"; else pagef=page;
-    $("#md").load(pagef+".md",function(){
-        var converter = new showdown.Converter(),
+    $("#md").load(bs+pagef+".md",function(){
+        var converter = new showdown.Converter({tables: true}),
     text      = $("#md").text(),
     html      = converter.makeHtml(text);
+    html=html.replace(/@@IFR(.*)@@/g,'<iframe src="$1" style="width:100%;height:1200px" frameborder="0" scrolling="no"></iframe>');
     $("#out").html(html);
     });
     
