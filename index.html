@@ -21,7 +21,7 @@ function md(){
     if(!page) pagef="index"; else pagef=page;
     $("#md").load(bs+pagef+".md",function(){
         var converter = new showdown.Converter({tables: true, parseImgDimensions:true}),
-    text      = $("#md").text(),
+    text      = $("#md").html(),
     html      = converter.makeHtml(text);
     html=html.replace(/@@IFR(.*)@@/g,'<iframe src="$1" style="width:100%;height:900px" frameborder="0" scrolling="no"></iframe>');
     $("#out").html(html);
@@ -42,7 +42,7 @@ function md(){
   text-align:justify;
   }
 
-  h1,h2 {font-variant:small-caps;color:navy;}
+  h1,h2 {font-variant:small-caps;color:grey;}
 
 img[alt~="banner"] {width:100%;}
 strong {font-size:1.2em;}
