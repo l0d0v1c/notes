@@ -350,4 +350,4 @@ Muellner, Leonard. "The Free First Thousand Years of Greek". Digital Classical P
 
 Tausczik, Y. R., et J. W. Pennebaker. «The Psychological Meaning of Words: LIWC and Computerized Text Analysis Methods». Journal of Language and Social Psychology 29, nᵒ 1 (1 mars 2010): 24‑54. https://doi.org/10.1177/0261927X09351676.
 
-Wishart, R https://github.com/ryderwishart/ancient-greek-word2vec
+Wishart, R https://github.com/ryderwishart/ancient-greek-word2vec - 2023
