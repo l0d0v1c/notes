@@ -3,7 +3,7 @@
 
 La Grèce antique est une civilisation fondatrice pour l'humanité, particulièrement pour l'Occident.  Mais cette période, la Grèce classique, durant laquelle furent inventés et transcendés tant de sciences, de philosophies, d'arts, ne dure finalement que de la victoire sur les Perses à Salamine à la mort d'Alexandre le Grand, soit 157 ans. Les merveilles dont nous parlons encore furent les actes de quelques dizaines de milliers d'hommes, 30000 à l'apogée d'Athènes.
 La quantité ne fait pas la qualité. Mais il est quand même incroyable de penser que si peu d'hommes pendant si peu de temps ont à ce point été disruptifs, tout en se réclamant de la tradition.
-Ce qui nous reste, c'est peu de choses: quelques œuvres d'art cassées, des fragments de textes plus ou oins bien recopiés, parfois par des intégristes chrétiens ou musulmans qui avaient leur censure et leur sélectivité.
+Ce qui nous reste, c'est peu de choses: quelques œuvres d'art cassées, des fragments de textes plus ou moins bien recopiés, parfois par des intégristes chrétiens ou musulmans qui avaient leur censure et leur sélectivité.
 Le XIXe siècle fut un grand siècle d'archéologie parfois menée à la pioche puis à la dynamite. Il en va de même des textes et des dictionnaires, monuments érigés à la lumière de la bougie, mais aussi projections de l'âme de leur époque sur celle de l'antiquité.
 
 # Traduction trahison
@@ -145,7 +145,7 @@ Il peut être intéressant de déterminer à quelles classes linguistiques major
 # Faire de l'art
 
 ## Poésie
-Pour terminer ce projet, je voulais poursuivre en utiisant des intelligences artificielles génératives afin de convertir ces mots nodaux en un poème épique, une sorte de retour au début du corpus. J'ai donc proposé à chatGPT et LLaMA30B d'imaginer un texte sur la bases des mots nodaux. Les voici:
+Pour terminer ce projet, je voulais poursuivre en utiisant des intelligences artificielles génératives afin de convertir ces mots nodaux en un poème épique, une sorte de retour au début du corpus. J'ai donc proposé à chatGPT et LLaMA30B d'imaginer un texte sur la bases des mots nodaux. Je n'ai pas précisé qu'il s'agissait de civilisation grecque ancienne. Les voici:
 
 <div style="padding-left:10em;font-style:italic;white-space: pre;" >
 Sous les regards ébahis, fouler le sol sans crainte,
