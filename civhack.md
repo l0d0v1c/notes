@@ -318,15 +318,29 @@ Chacun de ces dieux possède un rôle unique dans la mythologie, façonnant le d
 
 </div>
 
-<div style="float:right; padding:1em;" markdown="1">
-![archeoprocess](medias/archeo.svg)
-<center><small>Fig.2: Processus de traitement d'un corpus</small></center>
-</div>
+
+
+## Représentations
+
+Les images suivantes ont été générées par Midjourney 5.1 à partir des points nodaux du grec ancien.
+
+<table>
+	<tr>
+		<td> <img src="medias/civhack1.jpg" style="width:100%"/>
+		</td> 
+		<td><img src="medias/civhack2.jpg" style="width:100%"/> </td>
+		
+	</tr>
+	</table>
 
 # En conclusion
 
 Les modèles et références sont disponibles sur le [repo](https://github.com/l0d0v1c/Ancient-greek-word2vec). Le site dispose aussi d'une application pour explorer l'hyperespace du grec ancien avec différents modèles. L'objectif de ce travail était essentiellement d'expérimenter les possibilités d'exploration de l'état d'esprit d'une civilisation ancienne au moyen d'intelligences artificielles et n'a pas vocation à l'universalité. Mais au moins peut-il faire réfléchir aux possibilités d'explorer les raisons du succès ou de l'échec des groupes humains à partir de leux écrits.
 
+<div style="float:right; padding:1em;" markdown="1">
+![archeoprocess](medias/archeo.svg)
+<center><small>Fig.2: Processus de traitement d'un corpus</small></center>
+</div>
 Le processus global de traitement d'un corpus de texte est décrit en figure 2 et est partiellement automatisable et adapatable aux évolutions des algorithmes de vectorisation ainsi qu'aux LLM.
 
 L'idée sous-jascente de retarder au maximum l'étape de traduction permet de tenter de conserver la richesse du corpus historique.
