@@ -348,7 +348,7 @@ L'idée sous-jascente de retarder au maximum l'étape de traduction permet de te
 Chacune des étapes doit être améliorée:
 - La lemmatisation, toujours imparfaite, et notamment l'identification des noms propres qui sont particulièrement connectés dans le corpus (Wishart 2023)
 - La vectorisation notamment en s'appuyant sur les dernières technologies de réseaux de neurones et éventuellement les transformers
-- Les LLPs dont l'évolution rapide laisse augurer de nombreuses découvertes
+- Les LLMs dont l'évolution rapide laisse augurer de nombreuses découvertes
 
 
 
