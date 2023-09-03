@@ -7,6 +7,7 @@
 
 ## Intelligence artificielle
 
+* [Qui a éteint quoi?](?p=quiateintquoi) - septembre 2023
 * [Archeologie littéraire](?p=civhack) - juin 2023
 * [Programmation incantatoire](?p=incant) - mai 2023
 * [Conversation avec PseudoMoi](?p=pseudome) - mai 2023
