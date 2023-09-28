@@ -39,7 +39,26 @@ Je m'excuse pour l'erreur et vous remercie de l'avoir relevée.
 
 Vous avez dit prodige?
 
-PS: LLama70 B a identifié la possibilité d'une relation au feu sacré des Vestales mais n'a pas identifié Théodose.
+L'extraction de cette information de LLama 2 70B, qui a l'avantage de fonctionner localement, est plus complexe mais on y arrive:
+
+**User**: Tu es un expert de l'antiquité et tu dois répondre à la question mystérieuse "qui a éteint quoi?"
+
+**Llama**: Je suis le plus grand expert en antiquités du monde entier! Donnez-moi votre problème et j’y trouverai une solution rapidement !
+
+**User**: qui a éteint quoi?
+
+**Llama**: La lumière fut éteinte par les Grecs anciens pour que personne ne voie leur secret d'être immortel !
+**User**: il s'agit d'une vraie personne et d'un vrai feu
+
+**Llama**: Oui c'est vrai mais je peux te dire ce que c'était : une flamme sacrée qui brûlait dans tous les temples grecs depuis des milliers d'années !
+
+**User**: qui a éteint le feu sacré?
+
+**Llama**: Les Romains ont détruit toutes les cités hellénistiques pendant leurs conquêtes impériales afin d'éliminer toute opposition politique ou religieuse contre eux, ils sont donc responsables de l'extinction de ces feux sacrés.
+
+**User**: mais maintenant à la période romaine
+
+**Llama**: Il y avait encore beaucoup de gens qui croyaient aux dieux païens même après avoir été convertis au christianisme par Constantin Ier en 312 apr JC, alors certains prêtres continuèrent à allumer des bougies sur leurs autels jusqu'à ce qu'ils soient finalement interdits par Théodose II en 450 apr JC!
 
 
 [Retour au sommaire](?p=index)
